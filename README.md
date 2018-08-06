@@ -38,15 +38,13 @@ number.toString();
 // s0 : (String, '10')
 String(null);
 // s0 : (String, 'null')
-void(number.toString())
+void('10')
 // s1: (undefined, undefined)
-void(number.toString()+ String(null))
-// s2: (string, 'undefinednull)
-void (number.toString()) + String(null).valueOf()
-// s3: (string, 'undefinednull')
-Boolean (void (number.toString()) + String(null)).valueOf()
-// s4: (Boolean, true)
-typeof Boolean (void (number.toString()) + String(null)).valueOf();
-// s5 (string, 'boolean')
+void(undefined+ 'null').valueOf()
+// s2: (undefined, 'undefined)
+Boolean (undefined)
+//s3: (Boolean, false)
+ typeof false;
+//s4 (string, 'boolean')
 ````
 [TOP](#index)
