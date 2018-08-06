@@ -61,6 +61,17 @@ Step-by-Step Explanation:
  4. s3 : Boolean Primitive takes in a string and returns true.
  5. s4 : typeof true is string 'Boolean'
  
+ * Sketch
+ 
+ ![](sketches.png)
+ 
+ 
+ * State Diagram
+ 
+ 
+ <a href="https://ibb.co/ipQ1Ae"><img src="https://preview.ibb.co/gufZVe/IMG_1195.jpg" alt="IMG_1195" border="0"></a>
+
 Head over again to the Repl.it link to see the Parsons 'reshuffle' method. Try to organise the declarations to reach to reach the same goal. 
+
 [TOP](#index)
 
